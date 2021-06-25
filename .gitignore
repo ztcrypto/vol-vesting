@@ -1,0 +1,11 @@
+.DS_Store
+*.sw?
+.env
+
+node_modules/
+reports/
+build/
+
+typechain
+artifacts
+cache
